@@ -42,3 +42,9 @@ int main()
     }
     return 0;
 }
+
+
+
+
+//time complexity: O(d) + O(n-d) + O(d) = O(n + d)
+//Space complxity(what is the extra space used to do so): O(d) -> when i want to get rid of this  extra space I want an optimal solution
