@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-//move all zeroes to the end of the array
+//move all 0's to the end of the array
 vector<int> moveZeroes(vector<int> &a)
 {
     int n = a.size();
@@ -22,7 +22,7 @@ vector<int> moveZeroes(vector<int> &a)
         a[i] = temp[i];
     }
 
-    //
+    //fill the remaing array with 0's
     for(int i = temp.size(); i < n; i++){
         a[i] = 0;
     }
