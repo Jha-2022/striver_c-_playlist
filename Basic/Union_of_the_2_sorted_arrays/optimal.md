@@ -1,3 +1,8 @@
+
+Ideation :
+
+Method:
+
 ```cpp
 
 #include <iostream>
@@ -80,3 +85,7 @@ int main()
 }
 
 ```
+
+
+TC:O(n1+n2)
+SC:O(n1+n2)-> For the worst case, If all the elementns are unique This one is just used for returning the answer not for solving ,  not in my algo only for returning it
