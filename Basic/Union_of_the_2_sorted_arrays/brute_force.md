@@ -1,3 +1,7 @@
+Ideaion:
+
+Method:
+
 ```cpp
 
 #include <iostream>
@@ -43,3 +47,8 @@ int main()
 
 
 ```
+
+
+TC: O(n1logn + n2logn) + O(n1 + n2)
+
+SC: O(n1+n2) + O(n1+n2)-> this second oe is just used to return the answer
