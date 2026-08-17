@@ -62,4 +62,5 @@ int main()
 T.C: O(n1+n2)
 
 S.C:O(1)
+
 Note:S.C is O(n1+n2) in the worst case to store ans and return
