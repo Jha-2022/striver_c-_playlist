@@ -1,5 +1,11 @@
 This code gives TLE
 
+Idea:
+
+
+Method:
+
+
 ```cpp
 
 #include <iostream>
@@ -52,4 +58,6 @@ int main()
 
 ```
 
-T.C : O(n1Xn2)
+T.C : O(n1 x n2)
+S.C : O(n2)
+
