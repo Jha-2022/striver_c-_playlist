@@ -59,5 +59,6 @@ int main()
 ```
 
 T.C : O(n1 x n2) 
+
 S.C : O(n2)
 
